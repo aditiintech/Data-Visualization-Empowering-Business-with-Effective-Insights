@@ -12,8 +12,8 @@ In this project. I worked on a project where I looked at a lot of information to
     - Concentrating our efforts on certain countries and types of customers could lead to significant boosts in both earnings and the portion of the market we capture.
 
 ## Data Source:
-  Here's the [Online Retail sales raw data](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
-
+  Here's the [Online Retail sales raw data]
+(https://github.com/aditiintech/Data-Visualization-Empowering-Business-with-Effective-Insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
 ## Business Problem:
  - Examine the monthly revenue data from 2011 to identify patterns related to seasons, improving our ability to predict sales accurately.
  - Create visual representations of the top 10 countries generating revenue (excluding the UK), including insights into the quantity of items sold. This information will be valuable for making strategic decisions.
