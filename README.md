@@ -1,6 +1,6 @@
 # Data Visualization: Empowering Business with Effective Insights (Strategic Insights for online retail expansion)
 
-|![Add a heading](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/3bafbaac-5b78-46f4-9bb7-7b07bb1a3bea)|
+|![Add a heading](https://github.com/aditiintech/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/3bafbaac-5b78-46f4-9bb7-7b07bb1a3bea)|
 |--------------|
 
 ## Overview:
@@ -39,22 +39,22 @@ In this project. I worked on a project where I looked at a lot of information to
  - Created a suite of visualizations for effective communication.
    
 
-|![Screenshot (253)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/232d3fa8-d61f-4b7b-9364-c29eb1f7d6f0)|
+|![Screenshot (253)](https://github.com/aditiintech/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/232d3fa8-d61f-4b7b-9364-c29eb1f7d6f0)|
 |---------------|
 
 Identified seasonal revenue trends, showcasing exceptional growth from **September to November**.
 
-|![Screenshot (254)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/65d0f5a9-f434-424d-a607-1225fba5ea40)|
+|![Screenshot (254)](https://github.com/aditiintech/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/65d0f5a9-f434-424d-a607-1225fba5ea40)|
 |---------------|
 
 Identified top-performing countries in terms of revenue – **Netherlands, Ireland, Germany, and France**. Proposed specific strategies to improve their market positions.
 
-|![Screenshot (256)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/dfcb698d-3d91-499e-aa38-0bc4e19a5496)|
+|![Screenshot (256)](https://github.com/aditiintech/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/dfcb698d-3d91-499e-aa38-0bc4e19a5496)|
 |---------------|
 
 Explored the top 10 customers, noting low variation and suggesting a strategy to enhance customer satisfaction.
 
-|![Screenshot (257)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/0a27365e-e681-48bb-bcdb-a61ef9216d91)|
+|![Screenshot (257)](https://github.com/aditiintech/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/0a27365e-e681-48bb-bcdb-a61ef9216d91)|
 |---------------|
 
 Discovered regions with high product demand, recommending focused expansions that could potentially lead to a **25%** increase in overall revenue.
@@ -75,7 +75,7 @@ Discovered regions with high product demand, recommending focused expansions tha
  
 **6.View Full Dashboard:**
 
-Here's the [View Dashboard](https://app.powerbi.com/links/5yLZ5zOp6Q?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
+Here's the [View Dashboard](https://github.com/aditiintech/Data-Visualization-Empowering-Business-with-Effective-Insights/blob/main/Task%203%20Creating%20Effective%20Visuals/TATA%20Internship%20-%20Data%20Visualization%20-Empowering%20Business%20with%20Effective%20Insights.pbix)
 
 ## Tools and Software:
 1. Power BI
