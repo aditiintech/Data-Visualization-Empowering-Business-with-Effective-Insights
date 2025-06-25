@@ -1,6 +1,6 @@
 # Data Visualization: Empowering Business with Effective Insights (Strategic Insights for online retail expansion)
 
-|![Add a heading](https://github.com/aditiintech/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/3bafbaac-5b78-46f4-9bb7-7b07bb1a3bea)|
+|![Head1](https://github.com/user-attachments/assets/53a438d7-e973-436f-b8b3-bff612f4957b)|
 |--------------|
 
 ## Overview:
